@@ -17,68 +17,60 @@
 
 <hr/>
 
-## Projetos em Destaque
+## 🚀 Projetos em Destaque
 
-### Projeto Tolofoly (Monopoly Multiplayer)
+* ### Tolofoly (Inspirado em jogos de mercado imobiliário)
 *Um sistema distribuído onde o celular é o controle e a TV é o tabuleiro.*
+<br>
+> **Tech:** React, Node.js, TypeScript, Socket.io.
 
-<div style="display: inline-block;">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.dot.io&logoColor=white">
-</div>
-<br><br>
+<!-- <img src="LINK_DA_IMAGEM_OU_GIF_AQUI" alt="Demonstração Tolofoly" width="100%"> -->
 
 <div align="center">
   <br>
-  <a href="https://github.com/Tolofi/NOME_DO_REPO_TOLOFOLY">
+  <a href="https://github.com/Tolofi/Tolofoly-plus-refatored">
     <img src="https://img.shields.io/badge/Ver_Código-Fonte-black?style=for-the-badge&logo=github">
   </a>
-  <a href="LINK_DO_DEPLOY_SE_TIVER">
+  <a href="tolofoly-plus-refatored.vercel.app">
     <img src="https://img.shields.io/badge/Ver_Demo_Online-2ea44f?style=for-the-badge&logo=vercel">
   </a>
 </div>
 
 <br>
-<hr/> <br>
 
-### Cardápio Digital & Pedidos
+* ### Cardápio Digital & Pedidos
 *Solução comercial para restaurantes com CMS via Google Sheets e checkout WhatsApp.*
+<br>
+> **Tech:** JavaScript, API Google Sheets, Integração WhatsApp.
 
-<div style="display: inline-block;">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white">
-  <img src="https://img.shields.io/badge/WhatsApp_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-</div>
-<br><br>
+<!-- <img src="LINK_DA_IMAGEM_OU_GIF_AQUI" alt="Demonstração Cardápio" width="100%"> -->
 
 <div align="center">
   <br>
-  <a href="https://github.com/Tolofi/NOME_DO_REPO_CARDAPIO">
+  <a href="https://github.com/Tolofi/e-whatsapp-menu">
     <img src="https://img.shields.io/badge/Ver_Código-Fonte-black?style=for-the-badge&logo=github">
   </a>
+  <a href="portifolio-restaurante.vercel.app">
+    <img src="https://img.shields.io/badge/Ver_Demo_Online-2ea44f?style=for-the-badge&logo=vercel">
+  </a>
 </div>
 
 <hr/>
 
-## Outras Tecnologias & Ferramentas
+## Tecnologias & Ferramentas
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-</div>
-
-<hr/>
-
-## 📈 Minhas Estatísticas
-
-<div align="center">
-  <a href="https://github.com/Tolofi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tolofi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tolofi&layout=compact&theme=dracula"/>
-  </a>
+  <br><br>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.dot.io&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <br><br>
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
 </div>
