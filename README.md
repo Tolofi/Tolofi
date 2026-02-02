@@ -31,7 +31,7 @@
   <a href="https://github.com/Tolofi/Tolofoly-plus-refatored">
     <img src="https://img.shields.io/badge/Ver_Código-Fonte-black?style=for-the-badge&logo=github">
   </a>
-  <a href="tolofoly-plus-refatored.vercel.app">
+  <a href="https://tolofoly-plus-refatored.vercel.app">
     <img src="https://img.shields.io/badge/Ver_Demo_Online-2ea44f?style=for-the-badge&logo=vercel">
   </a>
 </div>
@@ -50,7 +50,7 @@
   <a href="https://github.com/Tolofi/e-whatsapp-menu">
     <img src="https://img.shields.io/badge/Ver_Código-Fonte-black?style=for-the-badge&logo=github">
   </a>
-  <a href="portifolio-restaurante.vercel.app">
+  <a href="https://portifolio-restaurante.vercel.app">
     <img src="https://img.shields.io/badge/Ver_Demo_Online-2ea44f?style=for-the-badge&logo=vercel">
   </a>
 </div>
