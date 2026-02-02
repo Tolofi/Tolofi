@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Olá, eu sou o João Cantarutti!</h1>
+  <h1>Olá, eu sou João Cantarutti!</h1>
   <h3>Desenvolvedor Full Stack | Estudante de Sistemas de Informação (UFLA)</h3>
 
   <p>
