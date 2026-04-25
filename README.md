@@ -3,7 +3,7 @@
   <h3>Desenvolvedor Full Stack | Estudante de Sistemas de Informação (UFLA)</h3>
 
   <p>
-    Apaixonado por criar sistemas complexos e soluções reais. <br>
+    Apaixonado por criar sistemas e soluções. <br>
     Foco atual: <b>Aplicações em Tempo Real (WebSockets)</b> e <b>Arquitetura de Software</b>.
   </p>
 
